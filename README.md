@@ -1,0 +1,2 @@
+# HastaneOtomasyonuProjesi
+Üniversite Ders Projesidir 
